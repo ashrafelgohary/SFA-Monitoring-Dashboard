@@ -50,6 +50,42 @@ The solution combines infrastructure monitoring with business analytics, enablin
 
 ---
 
+# 📸 Dashboard Screenshots
+
+## Device Health Dashboard
+
+![Device Health Dashboard](screenshots/device-health.png)
+
+Provides:
+- Fleet Uptime
+- Online/Offline Devices
+- Connectivity Ratio
+- Device Availability Trends
+
+---
+
+## Device Inventory Dashboard
+
+![Inventory Dashboard](screenshots/inventory-dashboard.png)
+
+Provides:
+- Store Inventory
+- Device Status
+- MAC Address Tracking
+- IP Address Management
+
+---
+
+## Footfall Analytics Dashboard
+
+![Footfall Dashboard](screenshots/footfall-dashboard.png)
+
+Provides:
+- Live Footfall
+- Store Traffic Comparison
+- Daily Performance Metrics
+- Retail Analytics
+---
 # 🏗️ Solution Architecture
 
 ```text
