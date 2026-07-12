@@ -1,0 +1,659 @@
+[
+  {
+    "targets": [
+      "10.209.10.105"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-WEST-MARK-DT-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.73"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-NASEER-STREET-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.17"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-GATEWAY-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.1"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-ARKAN-PLAZA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.5.220"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-REHAB-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.17.2"
+    ],
+    "labels": {
+      "device": "EGY-STR-HNM-CITY-STARS-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.9.145"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-ARABELLA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.5.18"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-DRIVE-THRU-1-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.5.170"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-SOUTHPARK-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.9.33"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CHILL-OUT-2-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.5.130"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-MADENTY--FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.8.178"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-M-FAWAZY-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.213.1"
+    ],
+    "labels": {
+      "device": "EGY-MALL-CFC-MALL--FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.113"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-KATAMIA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.145"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-KURBA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.97"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-GREEN-PLAZA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.57"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-OLA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.81.2"
+    ],
+    "labels": {
+      "device": "EGY-MALL-MAADI",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.65"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CITY-SCAPE-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.8.105"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-GLEEM-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.201"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-WATER-WAY-CAIRO-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.1.65"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-SAN-STEFANO-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.241"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CFC-VILLAGE-MPLS-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.57"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-AIRPORT2-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.25"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CITY-STARS-3-NEW-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.8.57"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-WATER-WAY-2-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.30.1"
+    ],
+    "labels": {
+      "device": "EGY-STR-STRABUCKS-5A-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.81"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-TIVOLI-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.30.33"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-MERRYLAND-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.112.161"
+    ],
+    "labels": {
+      "device": "EGY-AE-REMOTE-STORAGE-ROOM-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.17"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CITY-STARS-1-NEW-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.33"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CITY-STARS-4-NEW-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.30.26"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-SHEHAB-ST-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.57.1"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-AIR-FORCE-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.56.65"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-AIRPORT-3-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.97"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CHILLOUT-DOKKI-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.1"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-ESPANA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.19.73"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-MIVIDA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.65"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-MUSEUM-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.89"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-W51-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.26.145"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-WEST-WALK-DT-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.235.252"
+    ],
+    "labels": {
+      "device": "EGY-RO-FW-node-2",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.235.251"
+    ],
+    "labels": {
+      "device": "EGY-RO-FW-node-1",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.5.242"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-DT-SOKHNA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.33"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-AL-TAHRA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.34"
+    ],
+    "labels": {
+      "device": "CCNMP-EGY-STR-SW-SBX-AL-TAHRA",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.17.169"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-KATAMIA-ONE-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.5.185"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-CHILLOUT-1-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.5.154"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-MAJARRA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.2.105"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-DANDY-MALL-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.6.17"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-NEHRU-STREET-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.103.2"
+    ],
+    "labels": {
+      "device": "EGY-MALL-ALEX-CITY-CENTER-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.8.49"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-NADA-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.25"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-NILE-BOAT-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.65"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-IMMORTALS-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.89"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-WATERWAY-DT-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.12.1"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-STARBUCKS-WORKSHOP-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.41"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-OLA-DIPLOMAT-DT-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.225"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-MELANITE-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.30.9"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-ALEX-DESIGNA-MALL-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.9"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-DRIVE-THRU-2-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.81"
+    ],
+    "labels": {
+      "device": "EGY-ST-SW-SBX-HYDEPARK-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.230.17"
+    ],
+    "labels": {
+      "device": "EGY-MALL-OPEN-AIR-MALL",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.161"
+    ],
+    "labels": {
+      "device": "EGY-MALL-POINT-90-MALL-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.185"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-DESERT-ROAD-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.8.82"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-MASTER-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.10.9"
+    ],
+    "labels": {
+      "device": "EGY-STR-BODYSHOP-LOTUS-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.209"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-SWAN-LAKE-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.169"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX--HUB-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.9.65"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-THE-YARD-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.148.53.252"
+    ],
+    "labels": {
+      "device": "EGY-MALL-ALMAZA-MALL-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.26.145"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-OPEN-AIR-FW",
+      "role": "firewall"
+    }
+  },
+  {
+    "targets": [
+      "10.209.18.177"
+    ],
+    "labels": {
+      "device": "EGY-STR-SBX-GD-FW",
+      "role": "firewall"
+    }
+  }
+]

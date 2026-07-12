@@ -1,0 +1,86 @@
+- targets:
+    - 10.148.209.153
+    - 10.148.209.155
+    - 10.148.209.156
+    - 10.148.209.157
+  labels:
+    store: "HNM-CFC"
+- targets:
+    - 10.148.209.41
+    - 10.148.209.43
+    - 10.148.209.44
+  labels:
+    store: "VSFA-CFC"
+- targets:
+    - 10.148.209.162
+  labels:
+    store: "AME-CFC"
+- targets:
+    - 10.148.209.51
+    - 10.148.209.52
+  labels:
+    store: "BBW-CFC"
+- targets:
+    - 10.148.108.50
+    - 10.148.108.51
+  labels:
+    store: "HNM-ALEX"
+- targets:
+    - 10.148.218.53
+    - 10.148.218.54
+    - 10.148.218.55
+    - 10.148.218.56
+    - 10.148.218.57
+    - 10.148.218.58
+  labels:
+    store: "HNM-MOE"
+- targets:
+    - 10.148.77.70
+  labels:
+    store: "HNM-P90"
+- targets:
+    - 10.148.53.140
+    - 10.148.53.141
+    - 10.148.53.142
+    - 10.148.53.143
+  labels:
+    store: "HNM-ALMAZA"
+- targets:
+    - 10.148.115.24
+    - 10.148.115.25
+    - 10.148.115.26
+  labels:
+    store: "HNM-OPEN-AIR"
+- targets:
+    - 10.148.218.9
+    - 10.148.218.11
+  labels:
+    store: "AME-MOE"
+- targets:
+    - 10.148.77.87
+    - 10.148.77.88
+  labels:
+    store: "AME-POINT-90"
+- targets:
+    - 10.148.243.52
+    - 10.148.243.53
+  labels:
+    store: "AME-CITY-STARS"
+- targets:
+    - 10.148.53.151
+    - 10.148.53.152
+  labels:
+    store: "AME-ALMAZA"
+- targets:
+    - 10.148.108.100
+    - 10.148.108.101
+  labels:
+    store: "AME-ALEX"
+- targets:
+    - 10.148.115.27
+  labels:
+    store: "AME-OPEN-AIR"
+- targets:
+    - 10.148.218.29
+  labels:
+    store: "BBW-MOE"
